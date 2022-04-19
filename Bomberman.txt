@@ -1,0 +1,27 @@
+Player:
+- speed
+- life
+- powerUp
+-----------
+_ Movement()
+_ Atack()
+_ Death()
+
+}}}}}}}}}}}}}}}
+
+Enemy:
+- speed
+- life
+-----------
+_ Movement()
+_ Atack()
+_ Death()
+
+{{{{{{{{{{{{{{{
+
+Block:
+- life
+- item
+--------
+_ Destroy()
+_ Drop()
